@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Hnaung Thet Htar Wai
 
-<!--
-**Thet-Htar/Thet-Htar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack Developer from Myanmar
+Passionate about building and designing web apps.
 
-Here are some ideas to get you started:
+##  Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** JavaScript, TypeScript, HTML, CSS, Java
+**Frameworks:** React, Next.js, Tailwind CSS, Spring
+**Tools:** Git, VS Code, Figma
+**Database:** PostgreSQL, MongoDB, SQL
+
+##  Current Projects
+
+-  Building a blood donation management between hospital and donors using java and react
+-  Learning React and PHP for web development
+
+## Currently Learning
+
+- PHP, React and Java
+- System Design 
+
+## 📫 Connect with  me
+- Email: hnaungthethtarwai99@gmail.com
+
