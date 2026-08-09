@@ -6,7 +6,7 @@
 
 Passionate about building **practical and user-focused web applications**, with a strong focus on **Java backend development**.
 
-Through my **Java Development Course (JDC)**, I gained hands-on experience with **Java, Spring Boot, REST APIs, Spring Security, databases, and microservices architecture**, while working on practical backend and full-stack projects.
+Through my **Java Developer Class (JDC)**, I gained hands-on experience with **Java, Spring Boot, REST APIs, Spring Security, databases, and microservices architecture**, while working on practical backend and full-stack projects.
 
 I enjoy turning ideas into working software, exploring new technologies, improving my development skills, and learning from experienced developers.
 
@@ -15,7 +15,7 @@ I enjoy turning ideas into working software, exploring new technologies, improvi
 
 ##  Education & Training
 
-##  Computer Engineering
+#  Computer Engineering
 
 **Bachelor of Engineering — Computer Engineering**
 
@@ -54,7 +54,6 @@ Worked with microservice concepts and learned how to design applications as inde
 Designed and integrated relational databases with Java applications using JPA, Hibernate, and SQL.
 
 ---
-
 
 ##  Tech Stack
 
